@@ -7,3 +7,4 @@ weight: 40
 ---
 
 Ritchie and his friends.
+Add content.
