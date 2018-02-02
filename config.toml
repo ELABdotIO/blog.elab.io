@@ -1,6 +1,6 @@
 baseURL = "http://localhost:1313"
 languageCode = "en"
-title = "Enlightement Blog"
+title = "Note to Self"
 theme = "hugo-nuo"
 enableRobotsTXT = true
 PygmentsCodeFences = true
@@ -23,10 +23,10 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   url = "/"
 
 [[menu.main]]
-  name = "Works"
+  name = "Project"
   weight = 20
-  identifier = "works"
-  url = "https://github.com/laozhu"
+  identifier = "project"
+  url = "https://github.com/leoman730"
 
 [[menu.main]]
   name = "Tags"
@@ -38,9 +38,9 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 [params]
   author = "Ray Huang"
   avatar = "/img/avatar.jpg"
-  seotitle = "Hugo Blog (SEO Version)"
+  seotitle = "Note to Self"
   subtitle = "~ Keep It Simple & Stupid ~"
-  description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
+  description = "Simple posts/notes for the things that important to me and I passion about."
   paginate = 10
 
   # Choose your social networks
