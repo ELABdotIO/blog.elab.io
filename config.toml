@@ -28,6 +28,14 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   identifier = "project"
   url = "https://github.com/leoman730"
 
+
+[[menu.main]]
+  name = "Archive"
+  weight = 20
+  identifier = "archive"
+  url = "/archive/"
+
+
 [[menu.main]]
   name = "Tags"
   weight = 30
@@ -74,5 +82,12 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   # Google Webmaster
   # https://www.google.com/webmasters/
   # googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
+
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  project = "projects"
 
 
