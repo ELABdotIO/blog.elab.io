@@ -1,6 +1,7 @@
 ---
 title: (Hu)go Template Primer
 tags: ["go", "golang", "templates", "themes", "development"]
+categories: ["cat1", "cat2", "cat3"]
 date: 2014-07-28
 ---
 
