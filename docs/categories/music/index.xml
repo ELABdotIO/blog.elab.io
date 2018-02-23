@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Note to Self</title>
+    <link>http://localhost:1313/categories/music/</link>
+    <description>Recent content in Music on Note to Self</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Fri, 26 Jan 2018 09:59:24 -0500</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>論智慧</title>
+      <link>http://localhost:1313/post/about-wisdom/</link>
+      <pubDate>Fri, 26 Jan 2018 09:59:24 -0500</pubDate>
+      
+      <guid>http://localhost:1313/post/about-wisdom/</guid>
+      <description>傳道書1章：1-18 1:1 在 耶 路 撒 冷 作 王 、 大 衛 的 兒 子 、 傳 道 者 的 言 語 。
+1:2 傳 道 者 說 、 虛 空 的 虛 空 、 虛 空 的 虛 空 ． 凡 事 都 是 虛 空 。
+1:3 人 一 切 的 勞 碌 、 就 是 他 在 日 光 之 下 的 勞 碌 、 有 甚 麼 益 處 呢 。</description>
+    </item>
+    
+  </channel>
+</rss>
