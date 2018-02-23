@@ -87,6 +87,14 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   # googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
 
 
+  # Enable / Disable algolia search
+  algolia_search    = true
+  algolia_appId     = "67XA9RQ8WO"
+  algolia_apiKey    = "7fff8cd9d1d50dde0904caaca424f73d"
+  algolia_indexName = "blog_elab_io"
+
+
+
 
 [taxonomies]
   tag = "tags"
@@ -94,4 +102,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   project = "projects"
   theme = "themes"
 
+[outputs]
+  home = [ "HTML", "JSON" ]
+  page = [ "HTML" ]
 

@@ -150,13 +150,13 @@
   </url>
   
   <url>
-    <loc>http://blog2.elab.io/themes/</loc>
+    <loc>http://blog2.elab.io/tags/themes/</loc>
+    <lastmod>2014-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog2.elab.io/tags/themes/</loc>
-    <lastmod>2014-07-28T00:00:00+00:00</lastmod>
+    <loc>http://blog2.elab.io/themes/</loc>
     <priority>0</priority>
   </url>
   

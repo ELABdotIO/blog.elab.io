@@ -3,6 +3,7 @@ title: Creating a New Theme
 author: "Michael Henderson"
 tags: ["Theme", "Hugo"]
 date: 2014-09-28
+draft: true
 ---
 
 ## Introduction
