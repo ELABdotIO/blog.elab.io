@@ -1,4 +1,4 @@
-baseURL = "https://elab-io.github.io/blog.elab.io/"
+baseURL = "http://blog2.elab.io"
 languageCode = "en"
 title = "Note to Self"
 theme = "hugo-nuo"

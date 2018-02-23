@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Note to Self</title>
-    <link>https://elab-io.github.io/blog.elab.io/categories/</link>
+    <link>http://blog2.elab.io/categories/</link>
     <description>Recent content in Categories on Note to Self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     
-	<atom:link href="https://elab-io.github.io/blog.elab.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog2.elab.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Life</title>
-      <link>https://elab-io.github.io/blog.elab.io/categories/life/</link>
+      <link>http://blog2.elab.io/categories/life/</link>
       <pubDate>Fri, 26 Jan 2018 09:59:24 -0500</pubDate>
       
-      <guid>https://elab-io.github.io/blog.elab.io/categories/life/</guid>
+      <guid>http://blog2.elab.io/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>https://elab-io.github.io/blog.elab.io/categories/music/</link>
+      <link>http://blog2.elab.io/categories/music/</link>
       <pubDate>Fri, 26 Jan 2018 09:59:24 -0500</pubDate>
       
-      <guid>https://elab-io.github.io/blog.elab.io/categories/music/</guid>
+      <guid>http://blog2.elab.io/categories/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Running</title>
-      <link>https://elab-io.github.io/blog.elab.io/categories/running/</link>
+      <link>http://blog2.elab.io/categories/running/</link>
       <pubDate>Fri, 26 Jan 2018 09:59:24 -0500</pubDate>
       
-      <guid>https://elab-io.github.io/blog.elab.io/categories/running/</guid>
+      <guid>http://blog2.elab.io/categories/running/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>https://elab-io.github.io/blog.elab.io/categories/technology/</link>
+      <link>http://blog2.elab.io/categories/technology/</link>
       <pubDate>Fri, 26 Jan 2018 09:59:24 -0500</pubDate>
       
-      <guid>https://elab-io.github.io/blog.elab.io/categories/technology/</guid>
+      <guid>http://blog2.elab.io/categories/technology/</guid>
       <description></description>
     </item>
     

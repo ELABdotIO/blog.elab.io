@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Note to Self</title>
-    <link>https://elab-io.github.io/blog.elab.io/projects/</link>
+    <link>http://blog2.elab.io/projects/</link>
     <description>Recent content in Projects on Note to Self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Fri, 26 Jan 2018 09:59:24 -0500</lastBuildDate>
     
-	<atom:link href="https://elab-io.github.io/blog.elab.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog2.elab.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Playhugo</title>
-      <link>https://elab-io.github.io/blog.elab.io/projects/playhugo/</link>
+      <link>http://blog2.elab.io/projects/playhugo/</link>
       <pubDate>Fri, 26 Jan 2018 09:59:24 -0500</pubDate>
       
-      <guid>https://elab-io.github.io/blog.elab.io/projects/playhugo/</guid>
+      <guid>http://blog2.elab.io/projects/playhugo/</guid>
       <description></description>
     </item>
     
