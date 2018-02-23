@@ -3,165 +3,165 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/archive/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/archive/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/about-wisdom/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/post/about-wisdom/</loc>
     <lastmod>2018-01-26T09:59:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/creating-a-new-theme/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/goisforlovers/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/post/goisforlovers/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/hugoisforlovers/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/migrate-from-jekyll/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/hugo-nuo-post-preview/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/post/hugo-nuo-post-preview/</loc>
     <lastmod>2013-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bible/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/tags/bible/</loc>
     <lastmod>2018-01-26T09:59:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/development/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/tags/development/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/go/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/tags/go/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/tags/golang/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/life/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/categories/life/</loc>
     <lastmod>2018-01-26T09:59:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/markdown/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/tags/markdown/</loc>
     <lastmod>2013-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/music/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/categories/music/</loc>
     <lastmod>2018-01-26T09:59:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/projects/playhugo/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/projects/playhugo/</loc>
     <lastmod>2018-01-26T09:59:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/post/</loc>
     <lastmod>2018-01-26T09:59:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/projects/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/projects/</loc>
     <lastmod>2018-01-26T09:59:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/running/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/categories/running/</loc>
     <lastmod>2018-01-26T09:59:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/tags/</loc>
     <lastmod>2018-01-26T09:59:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/technology/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/categories/technology/</loc>
     <lastmod>2018-01-26T09:59:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/templates/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/tags/templates/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/theme/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/tags/theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/themes/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/themes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://elab-io.github.io/blog.elab.io/tags/themes/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/themes/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/%E5%82%B3%E9%81%93%E6%9B%B8/</loc>
+    <loc>https://elab-io.github.io/blog.elab.io/tags/%E5%82%B3%E9%81%93%E6%9B%B8/</loc>
     <lastmod>2018-01-26T09:59:24-05:00</lastmod>
     <priority>0</priority>
   </url>
