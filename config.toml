@@ -5,6 +5,9 @@ theme = "hugo-nuo"
 enableRobotsTXT = true
 PygmentsCodeFences = true
 canonifyurls = true
+publishDir = "docs"
+
+
 
 # Disqus Username
 disqusShortname = "disqus_shortname"
