@@ -2,8 +2,8 @@
 title: "論智慧"
 date: 2018-01-26T09:59:24-05:00
 tags: ["Bible", "傳道書"]
-categories: ["cat1"]
-projects: ["experiment"]
+categories: ["Technology", "Life", "Music", "Running"]
+projects: ["playhugo"]
 cover: "/media/posts/talk-wise/talk-wise.jpg"
 ---
 >

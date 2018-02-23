@@ -26,7 +26,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   name = "Project"
   weight = 20
   identifier = "project"
-  url = "https://github.com/leoman730"
+  url = "/projects"
 
 
 [[menu.main]]
@@ -89,5 +89,6 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   tag = "tags"
   category = "categories"
   project = "projects"
+  theme = "themes"
 
 
