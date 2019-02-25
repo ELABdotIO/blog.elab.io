@@ -2,7 +2,7 @@
 title: "論智慧"
 date: 2018-01-26T09:59:24-05:00
 tags: ["Bible", "傳道書"]
-categories: ["Technology", "Life", "Music", "Running"]
+categories: ["Technology", "Life", "Running"]
 projects: ["playhugo"]
 cover: "/media/posts/talk-wise/talk-wise.jpg"
 ---
